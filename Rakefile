@@ -9,6 +9,9 @@ require 'rdoc/task'
 
 RSpec::Core::RakeTask.new
 
+task :default => :rspec
+
+
 RDoc::Task.new(:rdoc) do |rdoc|
   rdoc.rdoc_dir = 'doc'
   rdoc.title    = 'RecordCache'
