@@ -1,6 +1,9 @@
 Record Cache
 ============
 
+~[Build Status](https://secure.travis-ci.org/KensoDev/record-cache.png)
+
+
 *Cache Active Model Records in Rails 3*
 
 Record Cache transparantly stores Records in a Cache Store and retrieve those Records from the store when queried (by ID) using Active Model.
