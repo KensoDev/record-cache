@@ -305,3 +305,4 @@ And updated the gemspec file.
 
 ----
 Copyright (c) 2011 Orslumen, released under the MIT license
+
