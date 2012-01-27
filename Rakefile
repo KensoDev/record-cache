@@ -9,7 +9,7 @@ require 'rdoc/task'
 
 RSpec::Core::RakeTask.new
 
-task :default => :rspec
+task :default => :spec
 
 
 RDoc::Task.new(:rdoc) do |rdoc|
