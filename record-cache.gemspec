@@ -26,5 +26,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rr"
   s.add_development_dependency "database_cleaner"
   s.add_development_dependency "rdoc"
-
+  s.add_development_dependency "guard"
+  s.add_development_dependency "guard-rspec"
 end
