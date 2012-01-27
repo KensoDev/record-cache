@@ -6,11 +6,9 @@ require 'rake'
 require 'rspec/core/rake_task'
 require 'rdoc/task'
 
-
 RSpec::Core::RakeTask.new
 
 task :default => :spec
-
 
 RDoc::Task.new(:rdoc) do |rdoc|
   rdoc.rdoc_dir = 'doc'
