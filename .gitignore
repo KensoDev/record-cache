@@ -1,5 +1,5 @@
 .DS_Store
-/.bundle
+.bundle
 /.project
 /.loadpath
 /.rvmrc
@@ -11,4 +11,3 @@
 *.log
 *.gem
 *.sqlite3
-

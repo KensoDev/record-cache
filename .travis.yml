@@ -2,5 +2,5 @@ rvm:
   - 1.9.2
   - 1.9.3
 gemfile:
-  - gemfiles/Gemfile.rails-3.0.x
-  - gemfiles/Gemfile.rails-3.1.x
+  - ci/gemfiles/Gemfile.rails-3.0.x
+  - ci/gemfiles/Gemfile.rails-3.1.x

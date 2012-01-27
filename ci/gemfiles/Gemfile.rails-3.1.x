@@ -4,7 +4,7 @@ gem 'rails', '3.2'
 
 gem "sqlite3"
 gem "rake"
-gem "rcov"
+gem "simplecov"
 gem "rspec"
 gem "rr"
 gem "database_cleaner"
